@@ -40,7 +40,7 @@ public class US_tunnels extends BaseHazardCondition implements MarketImmigration
         return -market.getSize();
     }
     private float getHazardBonus() {
-        return 1-market.getHazardValue();
+        return 1 - market.getHazardValue();
     }
     
     @Override
