@@ -2,9 +2,9 @@
     "id": "US",
     "name": "Unknown Skies",
     "author": "Tartiflette",
-	"version": {"major":'1', "minor":'0', "patch":'1'},
+	"version": {"major":'1', "minor":'0', "patch":'2'},
     "description": "Enhance your journey into the unknown with a vastly expanded variety of planets and environments.",
-    "gameVersion": "0.96a",
+    "gameVersion": "0.97a",
     "jars":["jars/US.jar"],
     "modPlugin":"data.scripts.US_modPlugin",
 }
